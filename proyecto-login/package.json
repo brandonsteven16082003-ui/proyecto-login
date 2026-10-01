@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-login",
+  "version": "1.0.0",
+  "description": "SENA GA7-220501096 - AA4-EV03 (front-end) y AA5-EV01 (servicio web de registro e inicio de sesión)",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
