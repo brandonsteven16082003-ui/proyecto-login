@@ -1,6 +1,8 @@
 // ============================================================
+// Módulo de autenticación - AA4-EV03
 // app.js - Lógica del front-end (consume el servicio web)
 // Actividad: GA7-220501096-AA4-EV03
+
 // ============================================================
 
 // Referencias a los elementos de la página
